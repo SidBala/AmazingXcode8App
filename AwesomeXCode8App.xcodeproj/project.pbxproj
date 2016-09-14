@@ -427,6 +427,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = XYL49Z8YJS;
 				INFOPLIST_FILE = AwesomeXCode8App/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sidbala.AwesomeXCode8App;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -441,6 +442,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = XYL49Z8YJS;
 				INFOPLIST_FILE = AwesomeXCode8App/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sidbala.AwesomeXCode8App;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -514,6 +516,7 @@
 				1FAD2E401D8A000600AD2895 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1FAD2E411D8A000600AD2895 /* Build configuration list for PBXNativeTarget "AwesomeXCode8AppTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +525,7 @@
 				1FAD2E431D8A000600AD2895 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1FAD2E441D8A000600AD2895 /* Build configuration list for PBXNativeTarget "AwesomeXCode8AppUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +534,7 @@
 				1FAD2E461D8A000600AD2895 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
